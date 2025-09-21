@@ -1,7 +1,7 @@
 name: Generate Snake Contribution Graph
 
 on:
-  schedule: # Runs once a day
+  schedule: # Runs once a day at midnight UTC
     - cron: "0 0 * * *"
   workflow_dispatch: # Allows manual trigger
   push:
@@ -27,5 +27,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true   # ✅ Fixes git push errors
+          commit_message: "🐍 update snake contribution graph"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
