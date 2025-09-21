@@ -104,6 +104,14 @@ From building websites (MERN) to building **intelligent systems (ML, GenAI, LLMs
 
 ---
 
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mubasshirahmed-3712&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 🐍 Contribution Graph  
 
 <p align="center">
