@@ -86,7 +86,7 @@ From building websites (MERN) to building **intelligent systems (ML, GenAI, LLMs
 `Python` `Streamlit` `Ollama` `LangChain`  
 
 🔹 [**Global Inflation Dashboard**](https://github.com/mubasshirahmed-3712/Global-Inflation-Dashboard)  
-*Power BI dashboard analyzing inflation across **150+ countries (1980–2024)**, cutting analysis time by **40%**.*  
+*Power BI dashboard analyzing inflation across **150+ countries (1980–2024)**, cutting analysis time by **40%***  
 `Power BI` `DAX` `Analytics`
 
 ---
