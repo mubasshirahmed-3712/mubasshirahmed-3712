@@ -18,7 +18,7 @@ From building websites (MERN) to building **intelligent systems (ML, GenAI, LLMs
 🧠 Focused on **Machine Learning, Deep Learning, Generative AI, and LLMOps**  
 📊 Skilled in **Python, SQL, Power BI, Streamlit, LangChain**  
 🎯 Career Goal → **Data Scientist | AI Engineer | GenAI Developer**  
-📍 Based in India | 🌎 Open to global & remote opportunities  
+📍 Based in India | 🌎 Open to global & remote opportunities.  
 
 ---
 
